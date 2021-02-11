@@ -1,7 +1,6 @@
 /*
-* 
-*  @author Diego Brito
-*
+  @author Diego Brito
+
 */
 import java.util.Scanner;
 public class SintaxeDoJavaQuestão2 {
