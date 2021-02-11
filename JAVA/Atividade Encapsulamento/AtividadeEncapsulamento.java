@@ -78,7 +78,7 @@ public class AtividadeEncapsulamento {
         
     }
     /*
-        Analisar a classe ContaBanco (da atividade anterior) e alterar o acesso aos atributos criados. Implementar os métodos get() e set() para estes atributos, mas somente nos casos convenientes.
+        Analisar a classe ContaBanco (da atividade "Introdução a POO") e alterar o acesso aos atributos criados. Implementar os métodos get() e set() para estes atributos, mas somente nos casos convenientes.
         Ainda na classe ContaBanco, criar um construtor com os parâmetros (na ordem): nome do banco, número da agência, número da conta, nome do titular e tipo da conta.
         Dentro do construtor, alterar o saldo inicial para 0 e o limite de saque para 500.
         Na classe AppMain, criar objetos do tipo ContaBanco, passando os respectivos parâmetros pedidos pelo construtor.
