@@ -1,0 +1,13 @@
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\bin\Debug\netcoreapp3.1\Atividade pets.exe
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\bin\Debug\netcoreapp3.1\Atividade pets.deps.json
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\bin\Debug\netcoreapp3.1\Atividade pets.runtimeconfig.json
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\bin\Debug\netcoreapp3.1\Atividade pets.runtimeconfig.dev.json
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\bin\Debug\netcoreapp3.1\Atividade pets.dll
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\bin\Debug\netcoreapp3.1\Atividade pets.pdb
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\obj\Debug\netcoreapp3.1\Atividade pets.csprojAssemblyReference.cache
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\obj\Debug\netcoreapp3.1\Atividade pets.AssemblyInfoInputs.cache
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\obj\Debug\netcoreapp3.1\Atividade pets.AssemblyInfo.cs
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\obj\Debug\netcoreapp3.1\Atividade pets.csproj.CoreCompileInputs.cache
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\obj\Debug\netcoreapp3.1\Atividade pets.dll
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\obj\Debug\netcoreapp3.1\Atividade pets.pdb
+S:\Cursos\SENAI\DS2\Exercicios\Atividade pets\obj\Debug\netcoreapp3.1\Atividade pets.genruntimeconfig.cache
