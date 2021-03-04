@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(240, 35, 35); 
+     display: contents; 
+}
+header{
+   background-color: rgb(250, 216, 204);
+   text-align: center;
+   margin: auto;
+   padding-top: 20px;
+   height: 50px;
+   position: fixed;
+   width:100%;   
+
+}
+nav{
+    background-color: rgba(22, 22, 21, 0.801);
+    padding: 16px;
+    position: fixed;
+    width:100%;
+    margin-top: 70px;
+  
+}
+nav a{
+   color: #cff817;
+   text-align: center;
+   padding: 20px 20px;
+   text-decoration: none;
+   font-size: 18px;
+}
+nav a:hover{
+   background-color: rgb(198, 86, 250);
+   color: black;
+}
+footer{
+   background-color: rgba(184, 160, 160, 0.836);
+   height: 30px;
+   text-align: center;
+   width: 100%;
+   position: absolute;
+}
+      .ben{
+      font-size: 20px;
+      text-shadow: darkgreen 3px 2px;
+      }
+
+      .container{
+      padding: 30px 40px;
+      margin-top: 10px;
+      text-align: left;
+      height: 400px;
+      }
+
+      .esquerdasection{
+      background-color: darkslategray;
+      padding: 3px;
+      float: left;
+      margin:0 200;
+      flex: 2;
+      }
+
+      #meio{
+
+      background-color: rgb(126, 228, 30);     
+      margin:0 ;
+      flex: 3;
+      }
+
+      .direitaarticle{
+      background-color: rgb(141, 235, 177);  
+      padding: 3px;
+      float: right;
+      margin:0 200;
+      flex: 2;
+      
+
+      }
+
+      #geral{
+      display: flex;
+      margin:0;
+      margin-top: 122px;
+      height: 50%;
+      width: 100%;
+      padding: 19px;
+      }
+      #geral2{
+         display: flex;
+         border: 2px orange solid; 
+         margin:0;
+         margin-top: 122px;
+         height: 50%;
+         width: 100%;
+         padding: 19px;
+         }
+      .direitaarticle, .esquerdasection, #meio {
+      text-align: center;
+      padding: 20px;
+      }
+      p{
+      font-family: Impact, Charcoal, sans-serif;  
+      font-size: 16px;
+      }
+      h1{
+         font-family: "Lucida Console", Courier, monospace;
+         font-size: 32px;
+
+
+      }
+      h2{        
+      font-family: "Lucida Console", Courier, monospace;
+      font-size: 28px;
+      text-shadow: rgb(207, 242, 243) 2px 3px;
+     
+      }
